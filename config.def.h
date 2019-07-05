@@ -89,10 +89,10 @@ float alpha = 0.7;
 static const char *colorname[] = {
 	/* solarized dark */
 	"#000000",  /*  0: black    */
-	"#dc322f",  /*  1: red      */
-	"#859900",  /*  2: green    */
+	"#CC0000",  /*  1: red      */
+	"#4E9A06",  /*  2: green    */
 	"#b58900",  /*  3: yellow   */
-	"#268bd2",  /*  4: blue     */
+	"#3465A4",  /*  4: blue     */
 	"#d33682",  /*  5: magenta  */
 	"#2aa198",  /*  6: cyan     */
 	"#eee8d5",  /*  7: white    */
@@ -108,7 +108,7 @@ static const char *colorname[] = {
 	[255] = 0,  /* other colors follow */
 
 	"#000000",  /* 256: background */
-	"#fbfbfb",  /* 257: foreground */
+	"#AAAAAA",  /* 257: foreground */
 };
 
 
